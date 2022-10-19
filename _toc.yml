@@ -4,13 +4,13 @@
 format: jb-book
 root: intro
 parts:
-  - caption: Windows
+  - caption: windows
     chapters:
     - file: windows/windows技术
       sections:
       - file: windows/windows技术/Alternate Data Stream
     - file: windows/windows入侵
-  - caption: Linux
+  - caption: linux
     chapters:
     - file: linux/linux技术
     - file: linux/linux入侵
