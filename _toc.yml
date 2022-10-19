@@ -8,7 +8,7 @@ parts:
     chapters:
     - file: windows/windows技术
       sections:
-      - file:windows/windows技术/Alternate Data Stream
+      - file: windows/windows技术/Alternate Data Stream
     - file: windows/windows入侵
   - caption: Linux
     chapters:
