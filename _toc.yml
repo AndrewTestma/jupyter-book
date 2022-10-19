@@ -3,7 +3,12 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+parts:
+  - caption: Windows
+    chapters:
+    - file: windows/windows技术
+    - file: windows/windows入侵
+  - caption: Linux
+    chapters:
+    - file: linux/linux技术
+    - file: linux/linux入侵
